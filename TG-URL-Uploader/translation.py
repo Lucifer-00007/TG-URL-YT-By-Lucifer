@@ -34,9 +34,8 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: Free Cloned User
-Expires on: 31/12/2020"""
-    HELP_USER = """Hai am URL Uploader bot..
+Plan name: Free User
+    HELP_USER = """Hai am LW_YT--dl Bot..
     
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -46,13 +45,13 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
+<b>👉 Create own Clone Bot :</b> 👉 <a href="https://github.com/Lucifer-00007/TG-URL-YT-By-Lucifer>Diploy</a>
 
 --------
 Send /me to know current plan details
 
-Support Group : @InFoTelGroup
-© @TGBotsZ"""
+Support Group : @LuciferWorld777"""
+
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
@@ -72,7 +71,7 @@ Support Group : @InFoTelGroup
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
-    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
+    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/LuciferWorld7'>@LuciferWorld7</a>"
     EXTRACT_ZIP_STEP_TWO = """Select file_name to upload from the below options.
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
     CANCEL_STR = "Process Cancelled"
