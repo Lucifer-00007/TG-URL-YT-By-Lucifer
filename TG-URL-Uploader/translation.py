@@ -43,7 +43,7 @@ Plan name: Free User
    SVideo - Give File as video with Screenshots
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
+   File  - Give File without Screenshots
    
 <b>👉 Create own Clone Bot :</b> 👉 <a href="https://github.com/Lucifer-00007/TG-URL-YT-By-Lucifer>Diploy</a>
 
