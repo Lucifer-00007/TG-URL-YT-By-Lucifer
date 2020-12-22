@@ -2,7 +2,7 @@
   <a href="https://github.com/TheWhatsBot/WhatsBot"><img src="https://github.com/Lucifer-00007/TG-URL-YT-By-Lucifer/blob/main/Bot%20Pic/IMG_20201220_175700.jpg" alt="whatsbot" width="390"></a>
 </h1>
 
-## TG-URL-YT-By-Lucifer Bot
+# TG-URL-YT-By-Lucifer Bot
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
@@ -13,11 +13,9 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 👉 Upload as file from any "HTTP link"
 
-### Installation
-
-#### The Easy Way
-
-#### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+## Installation(the Easy Way)
+---
+You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lucifer-00007/TG-URL-YT-By-Lucifer)
 
