@@ -32,8 +32,8 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [👉𝐋𝐔𝐂𝐈𝐅𝐄𝐑'𝐒-𝐖𝐎𝐑𝐋𝐃👈](https://t.me/LuciferWorld77)
-* [👉𝐋𝐔𝐂𝐈𝐅𝐄𝐑'𝐒-𝐖𝐎𝐑𝐋𝐃 || 𝐋𝐞𝐭𝐬 𝐃𝐢𝐬𝐜𝐮𝐬𝐬 𝐓𝐨𝐠𝐞𝐭𝐡𝐞𝐫!!](https://t.me/LuciferWorld777)
+* [👉𝐋𝐔𝐂𝐈𝐅𝐄𝐑'𝐒-𝐖𝐎𝐑𝐋𝐃👈](https://telegram.dog/LuciferWorld77)
+* [👉𝐋𝐔𝐂𝐈𝐅𝐄𝐑'𝐒-𝐖𝐎𝐑𝐋𝐃 || 𝐋𝐞𝐭𝐬 𝐃𝐢𝐬𝐜𝐮𝐬𝐬 𝐓𝐨𝐠𝐞𝐭𝐡𝐞𝐫!!](https://telegram.dog/LuciferWorld777)
 
 #### LICENSE
 - `GPLv3`
